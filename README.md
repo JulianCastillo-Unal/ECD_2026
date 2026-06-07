@@ -34,11 +34,11 @@
 
 
 
-<img alt="unal" height="100px" src="https://minas.medellin.unal.edu.co/proyectos/one-health-consortium/images/unal.png" align="left" hspace="10px" vspace="0px">
-<img alt="unalscimago" height="100px" src="https://www.scimagoir.com/institution_img.php?idp=1953&width=560&height=520&theme=light" align="left" hspace="10px" vspace="0px">
+<img alt="unal" height="80px" src="https://minas.medellin.unal.edu.co/proyectos/one-health-consortium/images/unal.png" align="left" hspace="10px" vspace="0px">
+<img alt="unalscimago" height="80px" src="https://www.scimagoir.com/institution_img.php?idp=1953&width=560&height=520&theme=light" align="left" hspace="10px" vspace="0px">
 
 
-<img alt="Unalmed" height="100px" src="https://www.udea.edu.co/wps/wcm/connect/udea/721b156e-f6bc-4dc8-8595-8b4731c9a8c7/facultad-ingenieria.png?MOD=AJPERES&CVID=nc5CqsS" align="left" hspace="10px" vspace="10px">
+<img alt="Unalmed" height="80px" src="https://www.udea.edu.co/wps/wcm/connect/udea/721b156e-f6bc-4dc8-8595-8b4731c9a8c7/facultad-ingenieria.png?MOD=AJPERES&CVID=nc5CqsS" align="left" hspace="10px" vspace="10px">
 
-<img alt="UdeAscimago" height="100px" src="https://www.scimagoir.com/institution_img.php?idp=1906&width=560&height=520&theme=light" align="left" hspace="10px" vspace="0px">
+<img alt="UdeAscimago" height="80px" src="https://www.scimagoir.com/institution_img.php?idp=1906&width=560&height=520&theme=light" align="left" hspace="10px" vspace="0px">
 
