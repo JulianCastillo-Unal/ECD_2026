@@ -1,7 +1,7 @@
 <h6 align="center"> <b> </b> </h6>
 <hr size=10 noshade color="gray">
 <h1 align="center"> <b> Examen de Calificación de Doctorado </b> </h1>
-<h2 align="center"> <b> Analisis de Literatura </b> </h2>
+<h2 align="center"> <b> Analisis de Literatura, Código y Más </b> </h2>
 <hr size=10 noshade color="gray">
 </p>
 <p>
